@@ -1,6 +1,0 @@
-1. Page el game b3da m 5lst fa 7sebo 7saba ka navbar w footer bs el body yeb2a fade la hl2
-2. b5sous el login wl register validation fi sowar elon bs b3tikn details bs na3mel a3da
-3. msh daroure ktir trakzo 3l responsivity fi el hadaf el akbr yn3amal wl JS ka mode
-4. b5sous el w2t ben 1 week la 2 bs akid li eza 5oles abel m hada yeste7e :p
-5. kl shi assets mwjoudin w fi el font awesome li ana st3mlo el version 4 msh el 5 bs 5taro li bdkn yeh
-6. akid mtzkrin bs ka tezkir eno clean and documented code
